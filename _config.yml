@@ -1,3 +1,13 @@
 title: Marie G.
 description: Instructional Designer & Learning Enthusiast
-theme: jekyll-theme-minimal
+theme: minima
+
+# This section tells the theme which pages to put in the top menu
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+
+# Optional: adding a social link in the footer
+plugins:
+  - jekyll-feed
