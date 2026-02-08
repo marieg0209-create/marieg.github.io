@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Resume
+layout: page
+title: Projects
 ---
 
 # Resume 📄
