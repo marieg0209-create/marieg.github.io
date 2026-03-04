@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instructional Design Projects
+title: ID Projects
 ---
 
 # My Work 📂
