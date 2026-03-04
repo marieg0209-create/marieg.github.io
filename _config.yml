@@ -7,7 +7,7 @@ header_pages:
   - index.md
   - resume.md
   - projects.md
- 
+  - vet-teaching.md
 # Optional: adding a social link in the footer
 plugins:
   - jekyll-feed
