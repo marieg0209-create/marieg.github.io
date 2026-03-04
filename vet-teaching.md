@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VET & Facilitation
+title: VET Practice & Facilitation
 permalink: /vet-teaching/
 ---
 
