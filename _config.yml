@@ -6,7 +6,7 @@ theme: minima
 header_pages:
   - index.md
   - resume.md
- - projects.md
+  - projects.md
  
 # Optional: adding a social link in the footer
 plugins:
