@@ -4,7 +4,7 @@ title: VET Practice & Facilitation
 permalink: /vet-teaching/
 ---
 
-# VET Practice & Facilitation
+
 
 
 > "Effective design is born in the classroom."
