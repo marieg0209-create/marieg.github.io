@@ -1,7 +1,11 @@
 ---
 layout: page
-title: VET Practice & Facilitation
+title: VET & Facilitation
+permalink: /vet-teaching/
 ---
+
+# VET Practice & Facilitation
+
 
 > "Effective design is born in the classroom."
 
