@@ -43,5 +43,5 @@ I have extensive experience working within the following training packages:
 
 ## Vocational Competencies
 * **TAE40122 Candidate:** Deepening my expertise in competency-based assessment and design.
-* **LXP/LMS Management:** Experienced in deploying content via Canvas/Moodle for VET cohorts.
 * **LLN Support:** Designing materials with Language, Literacy, and Numeracy foundations in mind.
+
