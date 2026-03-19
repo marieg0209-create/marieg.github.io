@@ -1,13 +1,32 @@
-title: Marie G.
-description: Instructional Designer & Learning Enthusiast
+#Site Settings
+title: "Instructional Designer & Learning Enthusiast"
+description: "Designing engaging learning experiences and empowering knowledge through innovation."
 theme: minima
 
-# This section tells the theme which pages to put in the top menu
+# Navigation Menu
 header_pages:
   - index.md
   - resume.md
   - projects.md
   - vet-teaching.md
-# Optional: adding a social link in the footer
+
+# Author / Profile
+author:
+  name: "Marie Gerantonis"
+  bio: "Instructional Designer passionate about creating impactful learning experiences."
+  email: "Marieg0209@gmail.com"
+
+# Footer / Social Links
+social_links:
+  github: "your-github-username"
+  linkedin: "your-linkedin-profile"
+  email: "Marieg0209@gmail.com"
+
+# Plugins
+
 plugins:
   - jekyll-feed
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
