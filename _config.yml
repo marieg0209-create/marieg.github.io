@@ -6,7 +6,7 @@ theme: minima
 # Navigation Menu
 header_pages:
   - index.md
-  - About me.md
+  - About_me.md
   - projects.md
   - vet-teaching.md
 
