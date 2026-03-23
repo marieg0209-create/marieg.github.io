@@ -3,36 +3,31 @@ layout: page
 title: About me
 ---
 
-personal_details:
-  name: Marie Gerantonis
-  phone: "0421 804 844"
-  email: "marieg0209@gmail.com"
-  linkedin: "https://www.linkedin.com/in/marie-gerantonis-240112a2/"
 
-professional_summary: >
+# professional summary
   Dynamic eLearning Developer and Instructional Designer with 10+ years in adult learning.
   Expert at collaborating with high-level SMEs (PhD/Senior Researchers) to translate complex
   theory into interactive digital assets. I specialise in high-fidelity branching scenarios
   that utilise evidence-based pedagogical frameworks like Merrill’s and Mayer’s to drive
   measurable behavioural change.
 
-technical_tools:
-  elearning_authoring:
+## technical tools:
+  elearning authoring:
     - Articulate Storyline 360
     - We Are Learning
     - H5P
     - Thinglink
-  digital_content_creation:
+  digital content creation:
     video_editing:
       - Clipchamp
       - Camtasia
     animation:
       - Vyond
-    graphic_design:
+    graphic design:
       - Canva
       - Adobe Express
       - Photoshop
-  lms_platforms:
+  lms platforms:
     - Moodle
     - Canvas
     - OpenLearning
@@ -44,12 +39,13 @@ technical_tools:
     - Adult Learning Principles
     - Learning Needs Analysis
 
-employment_history:
+## employment history:
   - role: Instructional Designer
     organisation: Intersect Australia
     location: Sydney, NSW
     duration: May 2024 – Dec 2024
-    responsibilities:
+
+    ## responsibilities:
       - Consulted with Subject Matter Experts (PhD candidates and senior researchers) using agile methodology to guide AI Bootcamp content development.
       - Managed timelines and ensured constructive alignment of objectives, materials, and assessments.
       - Contributed to three pilot bootcamps on Generative AI and LLMs (36 participants, 95%+ attendance).
@@ -96,7 +92,7 @@ employment_history:
       - Coordinated teaching delivery and facilitated engaging sessions.
       - Monitored student progress and collaborated with educators to enhance outcomes.
 
-volunteer_experience:
+## volunteer experience:
   - role: Facilitator & Instructional Designer (TAE Practicum)
     organisation: Box Hill Institute
     duration: Dec 2025
@@ -113,7 +109,7 @@ volunteer_experience:
       - Delivered PD workshops on digital platforms and engagement strategies.
       - Supported educators in aligning resources with learning goals.
 
-education:
+## education:
   - qualification: Certificate IV in Training and Assessment (TAE40122)
     institution: Box Hill Institute
     status: Currently Studying
@@ -124,7 +120,7 @@ education:
   - qualification: Bachelor of Arts
     institution: University of Melbourne
 
-certificates:
+## certificates:
   - name: Educators as Researchers and Practitioners
     year: 2025
     provider: Victoria University
@@ -153,7 +149,7 @@ certificates:
     year: 2025
     provider: LearnWorlds
 
-skills:
+## skills:
   core:
     - Problem Solving
     - Strong Written & Verbal Communication
@@ -162,7 +158,7 @@ skills:
     - Critical Thinking
     - Time Management
 
-  instructional_design:
+  instructional design:
     - Learning Needs Analysis
     - Curriculum & Assessment Design
     - Blended & Online Learning
