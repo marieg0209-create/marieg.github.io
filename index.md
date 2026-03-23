@@ -13,5 +13,3 @@ I believe that good design is invisible—if a learner can move through a course
 * 🎓 Refining my portfolio.
 * 🛠️ Experimenting with AI in education.
 * ☕ Drinking way too much coffee.
-
-[Check out my projects]({{ site.baseurl }}/projects) or [view my resume]({{ site.baseurl }}/resume).
