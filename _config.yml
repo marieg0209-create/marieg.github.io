@@ -1,5 +1,5 @@
 #Site Settings
-title: "Instructional Designer & Learning Enthusiast"
+title: "Learning Designer? Trainer & Assessor"
 description: "Designing engaging learning experiences and empowering knowledge through innovation."
 theme: minima
 
@@ -9,12 +9,6 @@ header_pages:
   - About_me.md
   - projects.md
   - vet-teaching.md
-
-# Author / Profile
-author:
-  name: "Marie Gerantonis"
-  bio: "Instructional Designer passionate about creating impactful learning experiences."
-  email: "Marieg0209@gmail.com"
 
 # Footer / Social Links
 social_links:
