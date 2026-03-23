@@ -3,128 +3,180 @@ layout: page
 title: About me
 ---
 
-#Marie Gerantornis
+personal_details:
+  name: Marie Gerantonis
+  phone: "0421 804 844"
+  email: "marieg0209@gmail.com"
+  linkedin: "https://www.linkedin.com/in/marie-gerantonis-240112a2/"
 
-# __________________________Professional Summary___________________________
-Dynamic eLearning Developer and Instructional Designer with 10+ years in adult learning. Expert at collaborating with high-level SMEs
-(PhD/Senior Researchers) to translate complex theory into interactive digital assets. I specialise in high-fidelity branching scenarios 
-that utilise evidence-based pedagogical frameworks like Merrill’s and Mayer’s to drive measurable behavioural change.
+professional_summary: >
+  Dynamic eLearning Developer and Instructional Designer with 10+ years in adult learning.
+  Expert at collaborating with high-level SMEs (PhD/Senior Researchers) to translate complex
+  theory into interactive digital assets. I specialise in high-fidelity branching scenarios
+  that utilise evidence-based pedagogical frameworks like Merrill’s and Mayer’s to drive
+  measurable behavioural change.
 
-## _____________________________________Technical Tools_______________________________
+technical_tools:
+  elearning_authoring:
+    - Articulate Storyline 360
+    - We Are Learning
+    - H5P
+    - Thinglink
+  digital_content_creation:
+    video_editing:
+      - Clipchamp
+      - Camtasia
+    animation:
+      - Vyond
+    graphic_design:
+      - Canva
+      - Adobe Express
+      - Photoshop
+  lms_platforms:
+    - Moodle
+    - Canvas
+    - OpenLearning
+    - Microsoft Teams
+    - Zoom
+  methodologies:
+    - Agile Design
+    - ADDIE
+    - Adult Learning Principles
+    - Learning Needs Analysis
 
-* eLearning Authoring: Articulate Storyline 360, We Are Learning, H5P, Thinglink.
+employment_history:
+  - role: Instructional Designer
+    organisation: Intersect Australia
+    location: Sydney, NSW
+    duration: May 2024 – Dec 2024
+    responsibilities:
+      - Consulted with Subject Matter Experts (PhD candidates and senior researchers) using agile methodology to guide AI Bootcamp content development.
+      - Managed timelines and ensured constructive alignment of objectives, materials, and assessments.
+      - Contributed to three pilot bootcamps on Generative AI and LLMs (36 participants, 95%+ attendance).
+      - Achieved post-bootcamp evaluation scores of 9/10+ across delivery, collaboration, and communication.
+      - Recognised for balancing theory and practice with high-quality resources and supportive learning environments.
 
-Digital Content Creation: Video editing (Clipchamp, Camtasia), Animation (Vyond), Graphic Design (Canva, Adobe Express, Photoshop).
+  - role: Principal & Learning Designer
+    organisation: Community Language School
+    location: Rose Bay, NSW
+    duration: Jan 2012 – Dec 2022
+    responsibilities:
+      - Directed curriculum design and delivery for 70+ students annually.
+      - Improved student retention by 40% through innovative teaching strategies.
+      - Redesigned curricula into blended formats, increasing engagement by 35%.
+      - Implemented digital systems reducing administrative errors by 20%.
 
-LMS & Platforms: Moodle, Canvas, OpenLearning, Microsoft Teams, Zoom.
+  - role: Learning Technologies Facilitator
+    organisation: Sydney Institute of Community Languages Education (SICLE)
+    location: NSW
+    duration: Apr 2020 – Jul 2021
+    responsibilities:
+      - Designed and delivered NESA-accredited workshop on digital literacy tools for Greek educators.
+      - Delivered PD workshops to 80+ educators; 90% reported increased confidence.
+      - Facilitated professional learning on online platforms and digital pedagogy.
+      - Modelled best practices for engaging virtual learning environments.
 
-Methodologies: Agile Design, ADDIE, Adult Learning Principles, Learning Needs Analysis.
+  - role: Greek Language Resource Designer and Contributor
+    organisation: Sydney Institute of Community Languages Education (SICLE)
+    location: NSW
+    duration: Mar 2019 – Nov 2019
+    responsibilities:
+      - Curated and categorised 200+ teaching resources for an online repository.
+      - Improved accessibility and adoption of materials by 40%.
+      - Evaluated instructional resources for quality and relevance.
+      - Contributed to development and documentation of new teaching materials.
 
-##__________________________Employment History ___________________________
-** Instructional Designer May 2024 – Dec 2024
-** Intersect Australia, Sydney, NSW
+  - role: English Course Coordinator & Learning Designer
+    organisation: Institute of Vocational Education & Training (VET)
+    location: Greece
+    duration: Oct 2006 – Jun 2011
+    responsibilities:
+      - Led English programs for 200+ vocational students.
+      - Improved exam pass rates by 18% through curriculum redesign.
+      - Coordinated teaching delivery and facilitated engaging sessions.
+      - Monitored student progress and collaborated with educators to enhance outcomes.
 
-Consulted with Subject Matter Experts (SMEs) (PhD candidates and senior researchers), using agile methodology, to guide the development of AI Bootcamp content.
+volunteer_experience:
+  - role: Facilitator & Instructional Designer (TAE Practicum)
+    organisation: Box Hill Institute
+    duration: Dec 2025
+    responsibilities:
+      - Designed and delivered a 60-minute workshop on learning objectives and outcomes.
+      - Used Google Slides and Pear Deck to create interactive learning experiences.
+      - Demonstrated strong facilitation and corporate training delivery skills.
 
-Applied strong organisational and project coordination skills to manage timelines for AI Bootcamp content development, providing clear structure and constructive alignment of objectives, materials, and assessments, ensuring successful delivery to government and university stakeholders.
+  - role: Teacher Trainer – Community Languages Education
+    organisation: Greek Community Language School
+    location: Sydney
+    duration: Sep 2021 – Nov 2021
+    responsibilities:
+      - Delivered PD workshops on digital platforms and engagement strategies.
+      - Supported educators in aligning resources with learning goals.
 
-Contributed to the design of three pilot bootcamps on Generative AI and LLMs, training 36 participants from NSW DCCEEW, DPRID, and UNSW Sydney with an average attendance rate exceeding 95%.
+education:
+  - qualification: Certificate IV in Training and Assessment (TAE40122)
+    institution: Box Hill Institute
+    status: Currently Studying
 
-Post-bootcamp evaluations consistently rated delivery quality, collaborative atmosphere, instructor knowledge, and communication at 9/10 or higher.
+  - qualification: Graduate Certificate of Educational Design
+    institution: Monash University
 
-Participant feedback highlighted the holistic balance of theory and practice, quality of resources, and supportive learning environment as key strengths.
-Principal & Learning Designer Jan 2012 – Dec 2022
-Community Language School, Rose Bay, NSW
+  - qualification: Bachelor of Arts
+    institution: University of Melbourne
 
-Directed curriculum design and delivery for a school serving 70+ students annually, improving student retention by 40% through innovative teaching strategies.
+certificates:
+  - name: Educators as Researchers and Practitioners
+    year: 2025
+    provider: Victoria University
 
-Redesigned traditional curricula into blended modalities, creating interactive digital experiences that increased learner engagement by 35% and improved assessment results.
+  - name: Approaches to Teaching and Learning
+    year: 2025
+    provider: Victoria University
 
-Deployed digital record-keeping systems and automated reporting tools, reducing administrative errors by 20% and improving data integrity.
-Learning Technologies Facilitator Apr 2020 – Jul 2021
-Sydney Institute of Community Languages Education SICLE, NSW
+  - name: Generative AI in Learning and Development
+    year: 2025
+    provider: LinkedIn Learning
 
-Designed and delivered NESA-accredited workshop, "Enhancing Your Greek Teaching Resources via Digital Literacy Tools", to train and support Greek language educators in integrating digital tools into their teaching.
+  - name: Articulate Storyline 360 Essential Training
+    year: 2025
+    provider: LinkedIn Learning
 
-Delivered NESA-accredited PD workshops to 80+ language educators, with 90% of participants reporting improved digital teaching confidence.
+  - name: Articulate Storyline 360 Advanced eLearning
+    year: 2025
+    provider: LinkedIn Learning
 
-Provided professional development sessions on effective use of online platforms for Greek language educators.
+  - name: Facilitating Adult Learning Groups
+    year: 2025
+    provider: Alison
 
-Shared expertise in technology-enhanced language teaching, demonstrating best practices for engaging students in virtual learning environments.
-Greek Language Resource Designer and Contributor Mar 2019 – Nov 2019
-Sydney Institute of Community Languages Education SICLE, NSW
+  - name: AI-Powered Instructional Design Professional
+    year: 2025
+    provider: LearnWorlds
 
-Collaborated with fellow educators to collect, review, and categorize 200+ Greek language teaching resources for an online repository, increasing accessibility and adoption of quality materials by 40%.
+skills:
+  core:
+    - Problem Solving
+    - Strong Written & Verbal Communication
+    - Teamwork & Collaboration
+    - Leadership
+    - Critical Thinking
+    - Time Management
 
-Contributed to the evaluation and selection of high-quality instructional materials tailored to the needs of Greek community language schools.
+  instructional_design:
+    - Learning Needs Analysis
+    - Curriculum & Assessment Design
+    - Blended & Online Learning
+    - Evaluation & Feedback
+    - Branching Scenario Design
+    - Merrill’s First Principles
+    - Mayer’s Multimedia Principles
+    - Allen’s CCAF Model
+    - SME Collaboration
+    - Workshop Facilitation
 
-Provided feedback on the organization and usability of the digital resource portal to enhance accessibility for teachers.
-
-Assisted in the development and documentation of new teaching materials, ensuring alignment with community language education objectives.
-English Course Coordinator & Learning Designer Oct 2006 – Jun 2011
-Institute of Vocational Education & Training (VET) – Greece
-
-Led and coordinated dynamic English programs for 200+ vocational students across multiple fields.
-
-Spearheaded curriculum redesign and quality assurance processes for English programs, achieving an 18% improvement in exam pass rates through curriculum redesign and application of quality standards.
-
-Proactively scheduled and facilitated engaging learning sessions, collaborating with educators to deliver top-quality content.
-
-Monitored and supported student progress, ensuring goals were met, while fostering a team-oriented environment by collaborating with colleagues to optimize and enhance course delivery.
-
-##___________________________Volunteer Experience___________________________
-Facilitator & Instructional Designer (TAE Practicum) Dec 2025
-Box Hill Institute (TAE Program)
-
-Recognized for expertise: Requested by the trainer to design and facilitate a highly engaging, 60-minute workshop for the entire class on "Writing and Evaluating Effective Learning Objectives and Outcomes".
-
-Developed highly interactive content using Google Slides and the Pear Deck add-on to maximize learner participation, knowledge checks, and immediate feedback throughout the session.
-
-Delivered a collaborative, learner-centred session demonstrating practical facilitation and presentation skills required for corporate training delivery.
-Teacher Trainer – Community Languages Education Sep 2021 - Nov 2021
-Greek Community Language School, Sydney
-
-Delivered PD workshops for teachers on digital learning platforms and student engagement strategies.
-
-Guided educators on how to use online resources aligned with learning goals.
-
-##______________________________Education _________________________________
-Certificate IV in Training and Assessment (TAE 40122)
-Box Hill Institute, (Currently Studying)
-Graduate Certificate of Educational Design
-Monash University
-Bachelor of Arts
-Melbourne University
-
-##______________________________Certificates ________________________________
-
-Educators as Researchers and Practitioners 2025
-Additional PD in Teaching and Learning– Victoria University
-
-Approaches to Teaching and Learning 2025
-Additional PD in Teaching and Learning – Victoria University
-
-Generative AI in Learning and Development 2025
-LinkedIn Learning
-
-Articulate Storyline 360 Essential Training 2025
-LinkedIn Learning
-
-Articulate Storyline 360 Advanced eLearning 2025
-LinkedIn Learning
-
-Facilitating Adult Learning Groups 2025
-Alison-Online Courses
-
-AI-Powered Instructional Design Professional 2025
-The AI x Instructional Design Mini-Summit LearnWorlds Certification
-
-##______________________________Skills & Languages___________________________
-
-Problem Solving | Strong written & verbal Communication | Teamwork & Collaboration | Leadership | Critical thinking | Time management
-
-Instructional Design & Methodologies: Learning Needs Analysis | Curriculum & Assessment Design | Blended & Online Learning | Evaluation & Feedback | Branching Scenario Design | Merrill’s First Principles | Mayer’s Multimedia Principles | Allen’s CCAF Model | SME Collaboration | Workshop Facilitation
-
-Bilingual: English & Greek Fluent
-
+languages:
+  - language: English
+    proficiency: Fluent
+  - language: Greek
+    proficiency: Fluent
 
