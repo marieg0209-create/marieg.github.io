@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About_me
+permalink: /About_me/
 ---
 
 
