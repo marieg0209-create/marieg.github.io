@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ID Projects
+title: Projects
+permalink: /Projects/
 ---
 
 # My Work 📂
