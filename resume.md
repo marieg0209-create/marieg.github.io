@@ -5,12 +5,12 @@ title: About me
 
 #Marie Gerantornis
 
-## __________________________Professional Summary___________________________
+# __________________________Professional Summary___________________________
 Dynamic eLearning Developer and Instructional Designer with 10+ years in adult learning. Expert at collaborating with high-level SMEs
 (PhD/Senior Researchers) to translate complex theory into interactive digital assets. I specialise in high-fidelity branching scenarios 
 that utilise evidence-based pedagogical frameworks like Merrill’s and Mayer’s to drive measurable behavioural change.
 
-##_____________________________________Technical Tools_______________________________
+## _____________________________________Technical Tools_______________________________
 
 * eLearning Authoring: Articulate Storyline 360, We Are Learning, H5P, Thinglink.
 
@@ -21,8 +21,8 @@ LMS & Platforms: Moodle, Canvas, OpenLearning, Microsoft Teams, Zoom.
 Methodologies: Agile Design, ADDIE, Adult Learning Principles, Learning Needs Analysis.
 
 ##__________________________Employment History ___________________________
-**Instructional Designer May 2024 – Dec 2024
-**Intersect Australia, Sydney, NSW
+** Instructional Designer May 2024 – Dec 2024
+** Intersect Australia, Sydney, NSW
 
 Consulted with Subject Matter Experts (SMEs) (PhD candidates and senior researchers), using agile methodology, to guide the development of AI Bootcamp content.
 
