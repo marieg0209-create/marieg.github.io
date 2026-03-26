@@ -1,7 +1,29 @@
-#Site Settings
 title: "Learning Designer/Trainer & Assessor"
 description: "Designing engaging learning experiences and empowering knowledge through innovation."
+
 theme: minima
+
+# Enhanced Minima Theme Settings
+minima:
+  skin: classic # Options: classic, dark, solarized, auto
+  social_links:
+    github: "your-github-username"
+    linkedin: "your-linkedin-profile"
+    email: "Marieg0209@gmail.com"
+
+  # Optional: Custom brand colors for a more professional look
+  colors:
+    primary: "#1A4D8F"      # Deep professional blue
+    accent: "#F2A900"       # Warm gold highlight
+    background: "#FFFFFF"   # Clean white
+    text: "#333333"         # High‑contrast charcoal
+    link: "#1A4D8F"         # Matches primary
+    link_hover: "#0D2A4F"   # Darker hover tone
+
+  # Optional: Typography improvements
+  fonts:
+    heading: "Helvetica Neue, Arial, sans-serif"
+    body: "Inter, Roboto, Arial, sans-serif"
 
 # Navigation Menu
 header_pages:
@@ -10,15 +32,13 @@ header_pages:
   - projects.md
   - vet-teaching.md
 
-# Footer / Social Links
+# Footer / Social Links (Minima reads these too)
 social_links:
   github: "your-github-username"
   linkedin: "your-linkedin-profile"
   email: "Marieg0209@gmail.com"
- 
 
 # Plugins
-
 plugins:
   - jekyll-feed
 
