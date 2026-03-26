@@ -3,36 +3,22 @@ description: "Designing engaging learning experiences and empowering knowledge t
 
 theme: minima
 
-# Enhanced Minima Theme Settings
+# Minima Theme Enhancements
 minima:
-  skin: classic # Options: classic, dark, solarized, auto
+  skin: classic   # clean, professional, modern
   social_links:
     github: "your-github-username"
     linkedin: "your-linkedin-profile"
     email: "Marieg0209@gmail.com"
 
-  # Optional: Custom brand colors for a more professional look
-  colors:
-    primary: "#1A4D8F"      # Deep professional blue
-    accent: "#F2A900"       # Warm gold highlight
-    background: "#FFFFFF"   # Clean white
-    text: "#333333"         # High‑contrast charcoal
-    link: "#1A4D8F"         # Matches primary
-    link_hover: "#0D2A4F"   # Darker hover tone
-
-  # Optional: Typography improvements
-  fonts:
-    heading: "Helvetica Neue, Arial, sans-serif"
-    body: "Inter, Roboto, Arial, sans-serif"
-
-# Navigation Menu
+# Navigation Menu (must match filenames + correct permalinks)
 header_pages:
   - index.md
   - About_me.md
   - projects.md
   - vet-teaching.md
 
-# Footer / Social Links (Minima reads these too)
+# Footer / Social Links
 social_links:
   github: "your-github-username"
   linkedin: "your-linkedin-profile"
